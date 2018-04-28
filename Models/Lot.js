@@ -25,3 +25,5 @@ const lotSchema = new Schema({
 const Lot = mongoose.model('lot',lotSchema)
 
 module.exports = Lot
+
+

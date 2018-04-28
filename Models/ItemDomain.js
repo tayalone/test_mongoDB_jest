@@ -27,3 +27,5 @@ const itemDomainSchema = new Schema({
 const ItemDomain = mongoose.model('item_domain',itemDomainSchema)
 
 module.exports = ItemDomain
+
+

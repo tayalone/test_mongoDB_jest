@@ -24,3 +24,5 @@ const itemTypeSchema = new Schema({
 const ItemType = mongoose.model('item_type',itemTypeSchema)
 
 module.exports = ItemType
+
+

@@ -15,5 +15,3 @@ const wholeSalePriceTypeSchema = new Schema({
 const WholeSalePrice = mongoose.model('whole_sale_price',wholeSalePriceTypeSchema)
 
 module.exports = WholeSalePrice
-
-
